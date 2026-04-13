@@ -9,7 +9,7 @@ tags:
   - river cross-sections
   - terrain analysis
 authors:
-  - name: Your Name
+  - name: Pawan Thapa
     orcid: 0000-0002-4331-5315
     affiliation: 1
 affiliations:
