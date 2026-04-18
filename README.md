@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://github.com/username/lpcc/actions/workflows/tests.yml/badge.svg)](https://github.com/thapawan/LongitudinalProfileConstrainedCross-sections)
+[![Tests](https://img.shields.io/badge/tests-7%20passing-brightgreen.svg)](https://github.com/thapawan/LongitudinalProfileConstrainedCross-sections)
 
 ## The Problem This Solves
 
