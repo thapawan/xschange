@@ -128,17 +128,15 @@ All validation data and scripts are available in the `tests/validation/` directo
 
 LPCC enables accurate cross-section extraction in steep terrain where standard GIS tools fail. Primary applications include:
 
-- **Hydraulic modeling**: Correct cross-sections reduce uncertainty in flood inundation maps, particularly in mountainous regions where flood risk is high and field data are sparse [@jones2019transferability]
-- **Fluvial geomorphology**: Longitudinal slope correction preserves true valley geometry for analyses of channel evolution, sediment transport, and connectivity [@cavalli2017geomorphologically]
-- **Eco-hydrological assessment**: Accurate cross-sections improve predictions of instream flow requirements for aquatic species [@tanaka2021dem]
+- **Hydraulic modeling**: Correct cross-sections reduce uncertainty in flood inundation maps, particularly in mountainous regions where flood risk is high and field data are sparse.
+- **Fluvial geomorphology**: Longitudinal slope correction preserves true valley geometry for analyses of channel evolution, sediment transport, and connectivity.
+- **Eco-hydrological assessment**: Accurate cross-sections improve predictions of instream flow requirements for aquatic species.
 
 The tool is designed for reproducibility and teaching. All parameters are explicit, outputs are deterministic given identical inputs, and the code is fully documented with example notebooks.
 
 # Software Availability
 
-LPCC is released under the MIT License. Source code, documentation, and example data are available at: https://github.com/username/lpcc
-
-The version archived for this paper is v1.0.0, available at Zenodo: https://doi.org/10.5281/zenodo.xxxxxxx
+LPCC is released under the MIT License. Source code, documentation, and example data are available at: https://github.com/thapawan/LongitudinalProfileConstrainedCross-sections
 
 # Acknowledgements
 
