@@ -1,6 +1,6 @@
 # Slope-Constrained Cross-Section Extraction (LPCC)
 
-**Extract river cross-sections that follow natural valley slope — not just horizontal distance.**
+**Extract river cross-sections that follow natural valley slope not just horizontal distance.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -135,7 +135,7 @@ pytest tests/test_cross_sections.py::TestSlopeConstrainedCrossSections::test_ada
 
 If you use this software in your research, please cite:
 
-> Author, A. (2025). Slope-Constrained Cross-Section Extraction (LPCC): Automated extraction of terrain cross-sections that follow longitudinal valley slope. *Journal of Open Source Software*, XX(XX), XXXX. https://doi.org/10.XXXX/XXXX
+> Thapa P. (2026). Slope-Constrained Cross-Section Extraction (LPCC): Automated extraction of terrain cross-sections that follow longitudinal valley slope. *Journal of Open Source Software*, XX(XX), XXXX. https://doi.org/10.XXXX/XXXX
 
 ## License
 
